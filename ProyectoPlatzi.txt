@@ -1,0 +1,15 @@
+Nombre del proyecto: NousArt (Nombre provicional)
+
+
+Introducción: El proyecto que tengo en mente esta relacionado con la difusión de espacios donde se realizan muestras artísticas.
+La idea principal es darle a la comunidad una página web (tipo red social). Dondé puedan compartir sus experiencias en eventos artísticos pero que tengan una agenda al día
+sobre los diferentes grupos artísticos ques se presentan y donde se realizaran los eventos, y que eventos se están realizando en vivo. Todo esto con la informción pertinente
+para participar en el espacio.
+
+La idea surgue a partir de una problemática que viví cuando quería participar en algún diverso artístico. Hay que clasificar mis gustos, luego buscar en inifidad de sitios web.
+Algunos grupos artísticos muy buenos carecen de promoción, esto hace que sea dificíl saber sobre su labor. Entonces, lo que yo quiero hacer es reunir está información, 
+que los usuarios de el proyecto se encarguen de la difusión de su labor por medio de una interfaz donde el participante pueda, elegir el evento mediante; Sus gustos 
+músicales, su disponibilidad de tiempo, y que esté sepa las tarifas de productos o entradas que puedan existir para el evento.
+
+
+
